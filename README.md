@@ -21,7 +21,7 @@ Mata Kuliah: Pemrograman Web | Dosen: Tori Sutisna, M.Kom.
 ## Prasyarat
   Pastikan perangkat kamu sudah terinstal:
   - **XAMPP** (versi 8.0 ke atas) → [Download di sini](https://www.apachefriends.org/)
-  - **Web Browser** modern (Google Chrome / Firefox)
+  - **Web Browser** modern (Google Chrome)
   - **Code Editor** (Visual Studio Code direkomendasikan)
   
 ## Panduan Instalasi & Konfigurasi
