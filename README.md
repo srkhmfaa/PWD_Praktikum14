@@ -61,6 +61,7 @@ Mata Kuliah: Pemrograman Web | Dosen: Tori Sutisna, M.Kom.
         -> maka akan diarahkan ke halaman login & registrasi
 
 ## Struktur Folder
+  ```
   praktikum_p14/
   ├── bootstrap/
   │   ├── css/
@@ -81,6 +82,7 @@ Mata Kuliah: Pemrograman Web | Dosen: Tori Sutisna, M.Kom.
   ├── auth.php                ← Session guard & helper JSON response
   ├── db_web_p14.sql          ← Dump skema database
   └── README.md               ← Dokumentasi proyek
+  ```
 
 ## Cara Penggunaan
   1. **Registrasi** — klik "Daftar di sini", isi form dengan password yang kuat
